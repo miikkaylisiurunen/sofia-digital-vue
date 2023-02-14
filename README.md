@@ -18,7 +18,7 @@ The deployed version can be found at [sofia-digital.miikkay.com](https://sofia-d
    ```
 2. Change directory
    ```
-   cd sofia-digital
+   cd sofia-digital-vue
    ```
 3. Install NPM packages
    ```
